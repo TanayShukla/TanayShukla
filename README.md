@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I do lot of stuff.
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanayshukla&&show_icons=true&title_color=00FFFF&icon_color=FF4500&text_color=FF0000&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=tanayshukla&&show_icons=true&title_color=00FFFF&icon_color=FF4500&text_color=87CEFA&bg_color=151515">
