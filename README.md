@@ -12,7 +12,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=tanayshukla&&show_icons=true&title_color=00FFFF&icon_color=FF4500&text_color=87CEFA&bg_color=151515">
 <a href="https://github.com/TanayShukla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanayshukla&theme=light&hide_langs_below=1bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanayshukla&theme=light&hide_langs_below=1&bg_color=151515" />
 </a>
 <h1 align="center">A passionate frontend Coder from India</h1>
 
