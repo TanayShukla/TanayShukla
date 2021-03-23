@@ -12,6 +12,19 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=tanayshukla&&show_icons=true&title_color=00FFFF&icon_color=FF4500&text_color=87CEFA&bg_color=151515">
 <h1 align="center">A passionate frontend Coder from India</h1>
+<a href="https://github.com/vatsalcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalcode&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/vatsalcode">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalcode&show_icons=true&theme=light&line_height=27" alt="Vatsal's github stats"/>
+</a>
+<a href="https://github.com/vatsalcode/Sorting-Algo-visulizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vatsalcode&repo=Sorting-Algo-visulizer&theme=light" />
+</a>
+<a href="https://github.com/vatsalcode/Codeshow-100days_of_code">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vatsalcode&repo=Codeshow-100days_of_code&theme=light" />
+</a>
+<div align="center">
 
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Programming Languages and Tools</h3>
