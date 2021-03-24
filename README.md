@@ -10,7 +10,8 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I do lot of stuff.
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=tanayshukla&&show_icons=true&title_color=00FFFF&icon_color=FF4500&text_color=87CEFA&bg_color=151515">
+<a href="https://github.com/TanayShukla" targer="_blank">
+<img src="https://github-readme-stats.vercel.app/api?username=tanayshukla&&show_icons=true&title_color=00FFFF&icon_color=FF4500&text_color=87CEFA&bg_color=151515"></a>
 <a href="https://github.com/TanayShukla" targer="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanayshukla&theme=light&hide_langs_below=1&title_color=00FFFF&text_color=87CEFA&bg_color=151515" />
 </a>
