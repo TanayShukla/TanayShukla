@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanayshukla&theme=light&hide_langs_below=1&title_color=00FFFF&text_color=87CEFA&bg_color=151515" />
 </a>
   </div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishi838&theme=dark" alt="rishi838" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanayShukla&theme=dark" alt="TanayShukla" /></p>
 <h1 align="center">A passionate frontend Coder from India</h1>
 
 <div align="center">
