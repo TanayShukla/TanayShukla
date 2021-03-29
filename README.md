@@ -19,6 +19,14 @@
 </a>
   </div>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanayShukla&theme=dark" alt="TanayShukla" /></p>
+  # [GitHub Stats Visualization](https://github.com/TanayShukla/github-stats)
+
+<a href="https://github.com/TanayShukla/github-stats">
+   
+
+![](https://github.com/jasongaylord/github-stats/blob/master/generated/languages.svg)
+
+</a>
 <h1 align="center">A passionate frontend Coder from India</h1>
 
 <div align="center">
