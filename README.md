@@ -18,7 +18,7 @@
 </a>
   </div>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanayShukla&theme=dark" alt="TanayShukla" /></p>
-<a href="https://github.com/TanayShukla/github-stats1&title_color=00FFFF&text_color=87CEFA&bg_color=151515"></a>
+<a href="https://github.com/TanayShukla/github-stats1&title_color=00FFFF&text_color=87CEFA&bg_color=151515" targer="_blank"></a>
    
 ![](https://github.com/TanayShukla/github-stats/blob/master/generated/languages.svg)
 
