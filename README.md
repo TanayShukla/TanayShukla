@@ -17,6 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanayshukla&theme=light&hide_langs_below=1&title_color=00FFFF&text_color=87CEFA&bg_color=151515" />
 </a>
   </div>
+  <a href="https://github.com/TanayShukla" targer="_blank">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanayShukla&theme=dark" alt="TanayShukla" /></p>
 <a href="https://github.com/TanayShukla/github-stats1&title_color=00FFFF&text_color=87CEFA&bg_color=151515" targer="_blank"></a>
    
