@@ -7,7 +7,7 @@
 - 💬 Ask me about C++ and Tech Related Stuff.
 - 📫 How to reach me: tanay.general@gmail.com
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I do lot of stuff.
+- ⚡ Fun fact: I do lot of stuff..
 <div>
 <a href="https://github.com/TanayShukla" targer="_blank">
 <img src="https://github-readme-stats.vercel.app/api?username=tanayshukla&&show_icons=true&title_color=00FFFF&icon_color=FF4500&text_color=87CEFA&bg_color=151515"></a>
