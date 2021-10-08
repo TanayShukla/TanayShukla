@@ -1,4 +1,3 @@
-
 ### Hi there 👋
 - 🔭 I’m currently working on developing my skills.
 - 🌱 I’m currently learning Python.
