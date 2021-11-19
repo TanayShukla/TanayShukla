@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 - 🔭 I’m currently working on developing my skills.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Youtube and other Platforms.
