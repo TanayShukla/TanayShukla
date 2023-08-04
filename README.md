@@ -4,8 +4,8 @@
 
 <p>
   <em>
-    I am a pre-final year undergraduate student from <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a>. <br>
-    Ask me about ML/AI, Application Development and Cloud Computing <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/designer.gif" width="36px"  height="35px"><br> Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Medal.gif" width="20px"  height="35px">
+    I am a pre-final year undergraduate student from <a href="https://www.srmup.in/"> <b>SRM Institute of Science And Technology</b>, Modinagar</a>. <br>
+    Ask me about ML/AI <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/designer.gif" width="36px"  height="35px"><br> Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Medal.gif" width="20px"  height="35px">
   </em>  
 </p>
 
