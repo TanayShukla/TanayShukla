@@ -22,14 +22,14 @@ Hello world!
 
 ## ⚡ Technologies
 
-## Language :
+## Language 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-## Libraries & Framework :
+## Libraries & Framework 
 
 ![Jupyter](https://img.shields.io/badge/-jupyter-white?style=flat-square&logo=jupyter)
 ![MongoDB](https://img.shields.io/badge/-mongodb-white?style=flat-square&logo=mongodb)
