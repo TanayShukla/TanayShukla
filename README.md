@@ -6,7 +6,6 @@
     Ask me about ML/AI <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/designer.gif" width="36px"  height="35px"><br> Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Medal.gif" width="20px"  height="35px">
   </em>  
 </p>
----
 
 ## 📈 My Github Stats
 
