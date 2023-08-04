@@ -30,7 +30,7 @@
 ![Jupyter](https://img.shields.io/badge/-jupyter-white?style=flat-square&logo=jupyter)
 ![MongoDB](https://img.shields.io/badge/-mongodb-white?style=flat-square&logo=mongodb)
 
-## Tools:
+## Tools
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
