@@ -8,7 +8,7 @@ Hello world!
 </p>
 ---
 
-## 📈 My Github Stats:
+## 📈 My Github Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=TanayShukla)](https://github.com/anuraghazra/readme-components)
 
