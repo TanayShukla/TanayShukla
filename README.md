@@ -55,7 +55,7 @@
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 
 
-[![Saloni's github activity graph](https://activity-graph.herokuapp.com/graph?username=salonigupta1&theme=radical&bg_color=pinka&hide_border=true&area=true)](https://git.io/salonigupta1)
+[![Tanay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanayShukla&bg_color=ffffff&color=f2166f&line=f2166f&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
