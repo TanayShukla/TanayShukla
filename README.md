@@ -13,11 +13,8 @@
 
 <h2>📫 Reach out to me on</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pingsaloni/)](https://www.linkedin.com/in/pingsaloni/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saloniguptasg12@gmail.com)](mailto:saloniguptasg12@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://salonix.medium.com/)](https://salonix.medium.com/)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://salonix.netlify.app/#/)](https://salonix.netlify.app/#/) 
----  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanay-shukla/)](https://www.linkedin.com/in/tanay-shukla/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saloniguptasg12@gmail.com)](mailto:tanay.general@gmail.com)
 
 ## ⚡ Technologies
 
