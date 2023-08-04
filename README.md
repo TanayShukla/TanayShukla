@@ -42,10 +42,7 @@
 ### Libraries & Framework :
 
 ![Jupyter](https://img.shields.io/badge/-jupyter-white?style=flat-square&logo=jupyter)
-![React-Native](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 ![MongoDB](https://img.shields.io/badge/-mongodb-white?style=flat-square&logo=mongodb)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ### Tools:
 
