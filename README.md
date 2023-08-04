@@ -12,6 +12,7 @@
 ![TanayShukla's Stats](https://github-readme-stats.vercel.app/api?username=TanayShukla&theme=flag-india&show_icons=true&hide_border=false&count_private=true)
 ![TanayShukla's Stats](https://github-readme-stats.vercel.app/api?username=TanayShukla&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
 ![TanayShukla's Stats](https://github-readme-stats.vercel.app/api?username=TanayShukla&theme=buefy&show_icons=true&hide_border=false&count_private=true)
+![TanayShukla's Stats](https://github-readme-stats.vercel.app/api?username=TanayShukla&theme=vue&show_icons=true&hide_border=false&count_private=true)
 
 <h2>📫 Reach out to me on</h2>
 
