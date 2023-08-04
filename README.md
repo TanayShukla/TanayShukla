@@ -1,5 +1,5 @@
 # Tanay Shukla&nbsp;<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="30px" height="35px">
-<h2> Hello world!</h2>
+<h3> Hello world!</h3>
 <p>
   <em>
     I am a pre-final year undergraduate student from <a href="https://www.srmup.in/"> <b>SRM Institute of Science And Technology</b>, Modinagar</a>. <br>
