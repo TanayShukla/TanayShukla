@@ -1,4 +1,4 @@
-# Saloni Gupta&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/girly.gif" width="30px" height="35px">
+# Tanay Shukla&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/girly.gif" width="30px" height="35px">
 
 ### <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"  height="35px"> Hello world!
 
