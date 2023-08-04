@@ -9,7 +9,7 @@
 
 ## 📈 My Github Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TanayShukla)](https://github.com/anuraghazra/readme-components)
+![TanayShukla's Stats](https://github-readme-stats.vercel.app/api?username=TanayShukla&theme=flag-india&show_icons=true&hide_border=false&count_private=true)
 
 <h2>📫 Reach out to me on</h2>
 
