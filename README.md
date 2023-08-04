@@ -10,7 +10,8 @@ Hello world!
 
 📈 My Github Stats:
 
-![Saloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=salonigupta1&count_private=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TanayShukla)](https://github.com/anuraghazra/readme-components)
+
 <h2>📫 Reach out to me on</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pingsaloni/)](https://www.linkedin.com/in/pingsaloni/)
