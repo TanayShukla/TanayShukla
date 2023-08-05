@@ -10,7 +10,7 @@
 
 ## 📈 My Github Stats
 
-![TanayShukla's Stats](https://github-readme-stats.vercel.app/api?username=TanayShukla&theme=buefy&show_icons=true&hide_border=false&count_private=true)
+![Tanay's Stats](https://github-readme-stats.vercel.app/api?username=TanayShukla&theme=buefy&show_icons=true&hide_border=false&count_private=true)
 
 <h2>📫 Reach out to me on</h2>
 
