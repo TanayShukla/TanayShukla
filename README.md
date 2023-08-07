@@ -39,6 +39,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
 
-[![Tanay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanayShukla&bg_color=ffffff&color=f2166f&line=f2166f&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tanay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanayShukla&bg_color=ffffff&color=f2166f&line=f2166f&point=403d3d&area=true&hide_border=true)](https://github.com/TanayShukla/github-readme-activity-graph)
 
 ### ✨ [Skyline View](https://skyline.github.com/tanayshukla/2021)
