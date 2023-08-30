@@ -18,7 +18,7 @@
 <h2>📫 Reach out to me on</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanay-shukla/)](https://www.linkedin.com/in/tanay-shukla/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saloniguptasg12@gmail.com)](mailto:tanay.general@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanay.general@gmail.com)](mailto:tanay.general@gmail.com)
 
 ## ⚡ Technologies
 
